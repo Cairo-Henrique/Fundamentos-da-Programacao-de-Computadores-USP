@@ -1,2 +1,5 @@
-# Fundamentos-da-Programacao-de-Computadores-USP
-Listas de exercícios da disciplina Fundamentos da Programação de Computadores ofertada pelo IFSC-USP. Professor e autor das questões: Roberto Federico Ausas
+# Fundamentals-of-Computer-Programming-USP
+
+Repository containing the solutions of the exercise lists from the course Fundamentals of Computer Programming, offered by the Institute of Physics of São Carlos (IFSC-USP).
+
+Professor and author of the exercises: Roberto Federico Ausas
