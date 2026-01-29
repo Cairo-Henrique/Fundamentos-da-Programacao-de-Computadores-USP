@@ -1,6 +1,6 @@
 # Fundamentals-of-Computer-Programming-USP
 
-Repository containing the solutions of the exercise lists from the course Fundamentals of Computer Programming (SME0332), offered by the Institute of Physics of São Carlos (IFSC-USP).
+Repository containing the solutions of the exercise lists from the course Fundamentals of Computer Programming (SME0332), offered by the Mathematical Sciences and Computation (ICMC-USP).
 
 Professor and author of the exercises: Roberto Federico Ausas
 
