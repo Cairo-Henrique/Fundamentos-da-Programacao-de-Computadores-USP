@@ -23,7 +23,3 @@ Iterative numerical algorithms such as recurrence relations, fixed-point iterati
 ### **List 4 — Varied Topics**
 
 Image processing, advanced plotting and animation, sorting and searching algorithms, geometric and graph-based problems, and small computational physics projects.
-
----
-
-If you want it **even shorter (one-paragraph total)** or **more technical**, I can compress it further.
